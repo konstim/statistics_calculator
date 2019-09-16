@@ -1,4 +1,8 @@
 # StatisticsCalculator
+   
+   Calculates summation, average or median of numbers. It is also possible to
+   compare result of this mathematical calculation with a statement and reference
+   number.
 
 1. Install Python with official instructions at [Python Setup and Usage](https://docs.python.org/3/using/index.html)
 
@@ -10,9 +14,9 @@
    be separated with newline.
 
 4. Call the statistics_calculator module with arguments:
-  * file.txt with numbers (',' is not currently supported in number definitions)
-  * sum | avg | median
-  * optional argument: lg, gt or eq with reference number
+   * file.txt with numbers (',' is not currently supported in number definitions)
+   * sum | avg | median
+   * optional argument: statement 'lg', 'gt' or 'eq' with reference number
 
 ## About arguments
 
